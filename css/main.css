@@ -1,3 +1,17 @@
-p {
+.navbar li {
+    display: inline;
+    color: #c4cccc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar ul {
+    background-color: #2d2d2d;
+    padding: 8px;
+}
+
+#logo {
+    width: 400px;
+    height: 135.3125pxpx;
     
 }
+
