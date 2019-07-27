@@ -9,9 +9,18 @@
     padding: 8px;
 }
 
-#logo {
-    width: 400px;
-    height: 135.3125pxpx;
-    
+.main {
+    position: relative;
+    top: 175px;
+    text-align: center;
 }
 
+#logo {
+    width: 400px;
+    height: 135.3125px;
+}
+
+#search-buttons {
+    display: block;
+    padding-top: 20px;
+}
